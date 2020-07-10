@@ -2,7 +2,13 @@
 package go_math
 import ("errors"; "math")
 
-func Add(a, b int) int { return a + b }
+func Add(args ...int) int {
+    result := 0
+    for _, arg := range args {
+        result += arg
+    }
+    return result
+}
 
 func Sub(a, b int) int { return a - b }
 

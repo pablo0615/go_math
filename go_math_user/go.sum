@@ -6,3 +6,5 @@ github.com/pablo0615/go_math v1.1.0 h1:CWuA0ODGEd3Cui45jf17O9IXGRbv88vTVx2vVp4rK
 github.com/pablo0615/go_math v1.1.0/go.mod h1:guttRRJ7Msv54IshbsCXYdrcBJfO6B0ZvbbYE+0PqMc=
 github.com/pablo0615/go_math v1.1.1 h1:AhpJOpZsECERg80WdHHxGLDAeLBNtAT4CsfeWMxYUnY=
 github.com/pablo0615/go_math v1.1.1/go.mod h1:guttRRJ7Msv54IshbsCXYdrcBJfO6B0ZvbbYE+0PqMc=
+github.com/pablo0615/go_math v1.1.2 h1:sNj6gzRxaTYftixYFnRIQNNI/66N3iscUZppBi7n44Q=
+github.com/pablo0615/go_math v1.1.2/go.mod h1:guttRRJ7Msv54IshbsCXYdrcBJfO6B0ZvbbYE+0PqMc=
